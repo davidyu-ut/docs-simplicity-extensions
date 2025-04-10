@@ -1,6 +1,6 @@
 # Simplicity Extensions
 
-This docSpace provides a guideline and examples to build a third-party SDK extension for Silicon Labs SDKs. 
+Test changes This docSpace provides a guideline and examples to build a third-party SDK extension for Silicon Labs SDKs. 
 
 An SDK (Software Development Kit) is a comprehensive software package that provides developers with the necessary tools, libraries, and resources to build applications for Silicon Labs' hardware platforms. 
 
